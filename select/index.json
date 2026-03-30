@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "死神",
-  "base_artist": "米津玄師",
-  "createdAt": "2026-03-26T13:40:21.528048Z",
+  "base_artist": "米津玄師 - トピック",
+  "createdAt": "2026-03-30T09:44:15.555596Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,15 +115,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_死神_米津玄師.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "死神",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/localdb_01_死神_米津玄師.lrc",
-      "repo_name": "8nxaZ69ElEc"
     }
   ]
 }
